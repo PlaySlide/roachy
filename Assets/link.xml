@@ -1,0 +1,9 @@
+<linker>
+  <assembly fullname="UnityEngine">
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+  </assembly>
+  <assembly fullname="ConditionalExpression">
+    <type fullname="PlayMaker.ConditionalExpression.ConditionalExpression" preserve="all" />
+  </assembly>
+</linker>
